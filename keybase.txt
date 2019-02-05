@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dzimbeck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.zimbeck.com
+  * I am dzimbeck (https://keybase.io/dzimbeck) on keybase.
+  * I have a public key with fingerprint F61C A928 2373 B558 9E25  9CD0 CCC7 65E0 1BE1 6426
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101afb91cf74dc596405a5c71a44cf1b1da02663ef70fcf12d8b1ad3cc5981b4b150a",
+      "fingerprint": "f61ca9282373b5589e259cd0ccc765e01be16426",
+      "host": "keybase.io",
+      "key_id": "ccc765e01be16426",
+      "kid": "0101afb91cf74dc596405a5c71a44cf1b1da02663ef70fcf12d8b1ad3cc5981b4b150a",
+      "uid": "a789274d6cf1c34db9221a9bbae8bc19",
+      "username": "dzimbeck"
+    },
+    "service": {
+      "hostname": "www.zimbeck.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1531465378,
+  "expire_in": 157680000,
+  "prev": "a2ed90fe13fd7119a99e6f95614fe929e5ae952790e660961ae79ee774390348",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJbSFRBGMd3szIXKqNQuoInQQuRM+c+WxCZldE9KCuFZWbOHD3o7tl2
+z66Z2D0ytZQejFLsRmlIRmkFKaElJBVZkVF0Q6woCYukh8ikOWJvPTYvw3zz+//n
+/31M1+QYl8ddeeJLxc1EmXc/6DwZceVkrTtXwmFLL+a8JVwBHd1ooU7Dtq/A1Dkv
+xwMeIANDQAxV0okMFYmXkUxUgCSJGAADHfGCoojUUHmDFQRdwwDpImGsBrCEgcwj
+Lo0zzEAeDQVDZsBmtoYCCIKCJoiqiGVZg1SQIdF5QoiqyJQHmAJFEhQmzLfCjoKF
+wyhM002L1djBNxrvH/x/zh0ZtUOqBgVmpDCSiJKOoSAABDFGVMMEQAcM01AA+Smj
+9V2mH1NSwJWmcawaNQl1But0MkYUFRWlj0HpxPIzeTBk2RaxCtllvm0HvY7WLg6O
+whT7xmx82AzobJJMEKWhsGkFOC9gJLFNxxfIIpAUWVS1NI7uDJoh6jMdQlYVjWfL
+eYZGnX4EqkPeoEA0dBUAiCCkigFlBUgGhQKkMqJQFlTIU0XhoQIQVSGlqiqJkBcl
+jXMa2xGwOK/KYqI8Zhk28wLIjoQoV3qnI3e8y+1xTZwwzvlhLk9c/N9/Z9mxw5OS
+z6e2f6psr+37PTK8eyAh4XnN3dbW00smX6n4Uu2vy/jq3ZT6Qrq84/69/G3dsR2f
+j11YMvv1spJZQ3mZ4Y/BemnnpayZNYdocmX8woELzd5LnQcTqn8c29rT3Xit521t
+7MY7ORmdXQtuNDWefTwy/X394LPD377vW+t+5J7bIfXe7l+cWfZkcH/ZgZaVS4c2
+LLt8asWadfl7NmQuSt9yZnOZXDpravac69+z41t+zWiM9jXDxPKXDU8jR2+9XR69
+ij0pTQ0Xc9uqajbXbU9pLl/1MNZ3nOCJ/hi+5VX/z7134yrjhaQ36rzfQw1N3R/e
+TQuO48uqk6raPJEp49dfPLI62Ns1f9UfL/BEVg==
+=ljKq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dzimbeck
+
+==================================================================
